@@ -13,7 +13,7 @@
 
 ### Reflection
 
-### 1. Describe your pipeline. As part of the description, explain how you modified the draw_lines() function.
+### 1. Pipeline description
 
 My pipeline consisted of 5 steps.
  1. Convert images to grayscale . 
